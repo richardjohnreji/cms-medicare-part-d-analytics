@@ -54,15 +54,20 @@ The dataset contains prescription information submitted under the Medicare Part 
 # Repository Structure
 
 ```text
-docs/
+assets/
+dashboards/
 data/
+docs/
+images/
 notebooks/
 python/
-sql/
-dashboards/
 reports/
-images/
 scripts/
+sql/
+.gitignore
+LICENSE
+README.md
+requirements.txt
 ```
 
 ---
