@@ -113,10 +113,8 @@ requirements.txt
 
 # Future Improvements
 
-- Machine Learning for prescription prediction
 - Geographic analysis
 - Provider clustering
-- Drug utilization forecasting
 - Automated ETL pipeline
 
 ---
