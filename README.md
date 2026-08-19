@@ -41,10 +41,9 @@ The dataset contains prescription information submitted under the Medicare Part 
 # Technologies
 
 - Python
-- Pandas
-- NumPy
-- SQL
+- SQL Server
 - Power BI
+- Microsoft Excel
 - Git
 - GitHub
 
